@@ -1,2 +1,5 @@
+.gitignore
+DS_store
 node_modules
+.env
 package-lock.json
